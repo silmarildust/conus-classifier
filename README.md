@@ -5,5 +5,5 @@ This does not include the data files (images, landmarks, results), since the pro
 
 The pipeline for geometric morphometrics is:
 1. Landmark images using ImageJ, ImgLab, or a similar tool
-2. If multiple specimen per image, crop images to bounding boxes using 'image_preprocessing.py'
+2. If multiple specimen per image, crop images to bounding boxes using `image_preprocessing.py`
 3. 
